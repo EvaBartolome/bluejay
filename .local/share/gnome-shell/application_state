@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="google-chrome.desktop" score="19841.221862792969" last-seen="1693419008"/>
+    <application id="org.gnome.Nautilus.desktop" score="14" last-seen="1693334348"/>
+    <application id="org.gnome.Terminal.desktop" score="319.47479248046875" last-seen="1693418108"/>
+    <application id="bluej_bluej.desktop" score="19" last-seen="1693419037"/>
+  </context>
+</application-state>

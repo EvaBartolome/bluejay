@@ -1,0 +1,6 @@
+2023/08/28-14:07:52.613 4bb9 Creating DB /home/student/.config/google-chrome/Profile 1/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2023/08/28-14:07:52.615 4bb9 Reusing MANIFEST /home/student/.config/google-chrome/Profile 1/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/28-14:19:17.586 4bba Level-0 table #5: started
+2023/08/28-14:19:17.587 4bba Level-0 table #5: 405 bytes OK
+2023/08/28-14:19:17.589 4bba Delete type=0 #3
+2023/08/28-14:19:17.589 4bba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

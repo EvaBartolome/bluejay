@@ -1,0 +1,9 @@
+BlueJ run started: Wed Aug 30 11:10:08 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Linux 6.2.0-26-generic (amd64)
+Java Home: /snap/bluej/314/usr/share/bluej/jdk
+----
+Detected language "english" based on iso639-2 code "eng"
